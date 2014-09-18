@@ -4,3 +4,4 @@ FW_DIR=".dotfiles"
 
 source $FW_DIR/git-completion.bash
 source $FW_DIR/git-aliases.bash
+source $FW_DIR/aliases.bash
