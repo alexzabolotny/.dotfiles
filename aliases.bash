@@ -1,1 +1,1 @@
-la="ls -la"
+alias la="ls -la"
